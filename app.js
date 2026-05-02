@@ -7,7 +7,7 @@ const app = express();
 const allowedOrigins = [
   "http://localhost:3000",
   "http://localhost:5173", // if using Vite
-  "https://portfolio-backend-3zz7.onrender.com", // 👈 replace with your real URL
+  "https://portfolio-frontend-steel-six.vercel.app", // 👈 replace with your real URL
 ];
 
 app.use(
