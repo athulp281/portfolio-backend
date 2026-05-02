@@ -1,0 +1,90 @@
+[
+  {
+    "id": "summary",
+    "content": "Professional Summary: I am Athul P, a Full Stack Developer with 4+ years of experience in React.js, Next.js, Node.js, and MySQL. I specialize in building scalable web applications and AI-powered systems using OpenAI APIs and Retrieval-Augmented Generation (RAG)."
+  },
+
+  {
+    "id": "personal",
+    "content": "Personal Information: My name is Athul P, a Full Stack Developer based in Kerala, India. I can be contacted via email at athulpranoor@gmail.com and phone +91 8086455308."
+  },
+
+  {
+    "id": "contact_social",
+    "content": "Contact and Social Profiles: My LinkedIn profile is https://www.linkedin.com/in/athul-p-583868194, my GitHub username is athulp281 with profile https://github.com/athulp281, and my Instagram username is athul__sundar with profile https://www.instagram.com/athul__sundar."
+  },
+
+  {
+    "id": "skills_frontend",
+    "content": "Skills Frontend: I have expertise in React.js, Next.js, Redux Toolkit, Zustand, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, Material-UI, Bootstrap, Socket.IO-client, and Framer Motion."
+  },
+
+  {
+    "id": "skills_backend",
+    "content": "Skills Backend: I work with Node.js, Express.js, Sequelize, Prisma, REST APIs, Firebase, OpenAI APIs, Retrieval-Augmented Generation (RAG), Socket.IO, MySQL, and MongoDB."
+  },
+
+  {
+    "id": "skills_tools",
+    "content": "Tools and Deployment: I use Git, GitHub, VS Code, Postman, Thunder Client, Vite, Webpack, NPM, Yarn, PNPM. I deploy applications on Vercel, Netlify, Render, Contabo, and DigitalOcean."
+  },
+
+  {
+    "id": "experience_interval",
+    "content": "Professional Experience: I am currently working as a MERN Stack Developer at Interval Learning since November 2021 in Areekode, India. I build employee portals, student portals, and verification systems using React.js, Next.js, Node.js, and MySQL. I develop scalable UIs, REST APIs, real-time chat systems using Socket.IO, and integrate AI features such as OpenAI chatbots and RAG systems. I also implement authentication, Firebase services, and payment integrations."
+  },
+
+  {
+    "id": "experience_quest",
+    "content": "Professional Experience: I worked as a Full Stack Developer at Quest Innovative Solutions Pvt Ltd from September 2020 to October 2021 in Calicut, India. I developed responsive web applications using React.js, Redux, and Material-UI, and integrated backend APIs built with Django, Flask, and FastAPI."
+  },
+
+  {
+    "id": "project_employee",
+    "content": "Project: Employee Management System developed using React.js, Redux, Node.js, Sequelize, and MySQL. Features include employee profiles, attendance tracking, role-based access control, search, filtering, and pagination."
+  },
+
+  {
+    "id": "project_student",
+    "content": "Project: Student Portal built with Next.js, React Redux, Node.js, Prisma, MySQL, and Firebase. Includes dashboards, scheduling, grievance tracking, and AI chatbot integration using OpenAI APIs and RAG."
+  },
+
+  {
+    "id": "project_bgv",
+    "content": "Project: Background Verification System built with Next.js, Redux Toolkit, Node.js, Sequelize, and MySQL. Includes workflow management, document verification, RBAC, and email notifications."
+  },
+   {
+    "id": "project_assessment",
+    "content": "Project: Student Assessment Tool developed using React.js, Redux, Material-UI (MUI), Node.js, Express.js, and Sequelize. The system allows students to take assessments, tracks performance, and generates downloadable reports. Includes dynamic question handling, result evaluation, and report generation features."
+  },
+  {
+    "id": "project_cabin_booking",
+    "content": "Project: Cabin Booking System built using React.js, Redux, Material-UI (MUI), Node.js, Sequelize, and MySQL. The application allows users to book time slots for office cabins, manage availability, and handle scheduling efficiently. Includes features like slot selection, booking management, and real-time availability tracking."
+  },
+  {
+    "id": "project_spanora",
+    "content": "Project: Developed an SEO-friendly website for a contracting company named Spanora using Next.js, Redux, and Bootstrap. The website is optimized for search engines using server-side rendering (SSR), meta tags, structured content, and performance optimization techniques. Implemented responsive design, fast loading pages, and clean UI/UX to improve user engagement and visibility on search engines."
+  },
+
+ {
+    "id": "education_degree",
+    "content": "Education: I completed my BSc in Computer Science from the University of Calicut between 2017 and 2020 in Kerala, India."
+  },
+  {
+    "id": "education_plus2",
+    "content": "Education: I completed my Higher Secondary education (+2) in Computer Science under the Kerala State Syllabus between 2015 and 2017 in Malappuram, Kerala."
+  },
+  {
+    "id": "education_internship",
+    "content": "Education and Internship: I completed an internship at Quest Innovative Solutions Pvt Ltd between January 2020 and June 2020 in Calicut, India, where I gained practical experience in full stack development and real-world project implementation."
+  },
+
+  {
+    "id": "strengths",
+    "content": "Strengths: Strong problem-solving skills, ability to build scalable systems, expertise in AI integrations, performance optimization, and working in Agile environments."
+  },
+  {
+  "id": "ai_model_personal",
+  "content": "AI Model: I developed a custom AI assistant called Athion AI. It is trained on my personal and professional data including my skills, projects, and experience. Currently, this AI is focused only on my portfolio and helps users understand my work, technologies, and background."
+}
+]
